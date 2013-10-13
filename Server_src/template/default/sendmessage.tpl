@@ -1,0 +1,1 @@
+﻿{$arr.ok}{$arr.err}

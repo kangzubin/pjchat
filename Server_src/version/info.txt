@@ -1,0 +1,10 @@
+平台
+
+java	java通用版
+s60v2	symbian60v2
+s60v3	symbian60v3
+s60v5	symbian60v5
+pys60v2	pythons60v2
+pys60v3	pythons60v3
+pys60v5	pythons60v5
+

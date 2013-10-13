@@ -1,0 +1,8 @@
+开发说明
+ver1.0
+功能 
+获取好友列表 ct.paojiao.cn/friend.do?method=showfriends&userid=XXXX
+加好友 
+删除好友 
+获得新消息 
+发送消息 

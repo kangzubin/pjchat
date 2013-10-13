@@ -1,0 +1,1 @@
+{$arr.err}{if !$arr.err}fndcount={$arr.fndcount}&id={$arr.ids}&online={$arr.onlines}&gender={$arr.genders}&nickname={$arr.nicknames}&group={$arr.groups}&groupcount={$arr.groupcount}&groupid={$arr.groupids}&groupname={$arr.groupnames}{/if}

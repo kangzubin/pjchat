@@ -1,0 +1,1 @@
+{$arr.err}{if !$arr.err}msgcount={$arr.msgcount}&msgid={$arr.ids}&shorttext={$arr.shorttexts}&from={$arr.froms}&authorids={$arr.authorids}&time={$arr.times}&fulltext={$arr.fulltexts}&type={$arr.types}{/if}

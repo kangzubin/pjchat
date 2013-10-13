@@ -1,0 +1,1 @@
+{$arr.err}{if !$arr.err}emo={$arr.emo}&authorid={$arr.authorid}&author={$arr.author}&content={$arr.content}{/if}

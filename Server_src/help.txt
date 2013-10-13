@@ -1,0 +1,38 @@
+==========说明============<br/>
+帮助         help<br/>
+ ?act=help<br/>
+--------------------------<br/>
+关于         about<br/>
+ ?act=about<br/>
+--------------------------<br/>
+测试         test<br/>
+ ?act=test[&type=(connection)|time[&timeformat=(时间格式)]]<br/>
+--------------------------<br/>
+登录         login<br/>
+ ?act=login&type=rid&rid=你的rid<br/>
+--------------------------<br/>
+注销         logout<br/>
+ ?act=logout<br/>
+--------------------------<br/>
+获取新信息   getnewmessage<br/>
+ ?act=getnewmessage<br/>
+--------------------------<br/>
+获取收件箱   getmessagelist<br/>
+ ?act=getmessagelist<br/>
+--------------------------<br/>
+获取发件箱   getmessagelist<br/>
+ ?act=getmessagelist[&type=(outbox)|inbox][&limit=(10)]<br/>
+--------------------------<br/>
+发送新消息   sendmessage<br/>
+ ?act=sendmessage&to=收件人ID&content=发送内容[&emotion=(0)]<br/>
+--------------------------<br/>
+好友列表     getfriendlist<br/>
+ ?act=getfriendlist<br/>
+--------------------------<br/>
+好友信息     getfriendinfo<br/>
+ ?act=getfriendinfo&userid=用户ID<br/>
+--------------------------<br/>
+获得帖子列表 gettopiclist<br/>
+--------------------------<br/>
+获得帖子内容 gettopicdetail<br/>
+--------------------------<br/>

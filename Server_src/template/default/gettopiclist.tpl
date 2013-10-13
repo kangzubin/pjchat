@@ -1,0 +1,1 @@
+{$arr.err}{if !$arr.err}topiccount={$arr.topiccount}&headers={$arr.headers}&topicid={$arr.topicids}&titles={$arr.titles}&news={$arr.news}&authors={$arr.authors}&authorids={$arr.authorids}&visits={$arr.visits}&replys={$arr.replys}{/if}
